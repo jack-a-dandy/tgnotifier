@@ -1,0 +1,32 @@
+commands_dict = {
+	'start': 'Start bot',
+	'help': "Help",
+	'cancel': 'Cancel command',
+    'sites': 'List monitored sites',
+	'unseen':"Unseen site's posts",
+	'clear_unseen_posts': "Clear all unseen site's posts",
+	'last': "Last site's posts",
+	'add_site': "Add site's parser",
+	'remove_site': 'Remove site',
+	'add_channel': 'Add channel',
+	'remove_channel': 'Remove channel',
+	'ylast': 'Last channel videos',
+	'yunseen': 'Unseen channel videos',
+	'clear_unseen_videos': "Clear all unseen channel's videos",
+	'channels': 'List of channels',
+	'chterms': 'Terms of channel',
+	'ait': "Add include channel's term",
+	'rit': "Remove include channel's term",
+	'aet': "Add exclude channel's term",
+	'ret': "Remove exclude channel's term",
+	'add_youtube_query': 'Add youtube query',
+	'rm_youtube_query': 'Remove youtube query',
+	'yqueries': 'List youtube queries',
+	'qlast': "Last youtube-query videos",
+	'qunseen': "Unseen youtube-query videos",
+	'clear_unseen_q_videos': "Clear all unseen query videos",
+	'add_client': "Add client",
+	'remove_client': 'Remove client'
+}
+
+

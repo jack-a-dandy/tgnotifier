@@ -1,0 +1,17 @@
+.venv
+.env
+__pycache__
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+*.pyc
+*.pyo
+db.sqlite3
+
+# Divio
+.divio
+/data.tar.gz
